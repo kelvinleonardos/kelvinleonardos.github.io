@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@900&display=swap');
+
 .body {
     margin: 0;
     padding: 0;
@@ -18,7 +20,6 @@ header {
     vertical-align: middle;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@500&display=swap');
 .center_title {
     font-family: 'Nunito', sans-serif;
     vertical-align:middle;
@@ -37,7 +38,6 @@ header {
     position: absolute;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700&display=swap');
 .container h1 {
     font-family: 'Nunito', sans-serif;
     width: 100%;
@@ -59,4 +59,15 @@ header {
 
 .three {
     width: 30%;
+}
+
+.title_homepage {
+    font-family: 'Nunito', sans-serif;
+    font-size: 40px;
+}
+
+.img_homepage {
+    width: 60%;
+    margin: 20%;
+    border-radius: 100%;
 }
