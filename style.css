@@ -49,6 +49,14 @@ a:link {
     text-decoration: none;
 }
 
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    color: hotpink;
+}  
+
 .header img {
     padding: 10px;
 }
@@ -129,7 +137,7 @@ a:link {
 }
 
 .content-1 hr {
-    width: 250px;
+    width: 50%;
     border: 1px solid #f6f6f6;
 }
 
