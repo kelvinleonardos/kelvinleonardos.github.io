@@ -192,6 +192,15 @@ a:hover {
         display: inline;
     }
 
+    .nav-links-container {
+        flex-direction: row;
+    }
+
+    .nav-link{
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+
     .banner-txt {
         width: 100%;
         text-align: center;
